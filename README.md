@@ -27,7 +27,7 @@ Our website has many features that will help you to keep yourself motivated and 
 
 ## Installations and Setup :desktop_computer:
 ```
-git clone 
+git clone https://github.com/divanshArora3/DSA-Tracker
 npm install
 npm run dev
 ```
